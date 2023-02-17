@@ -14,7 +14,7 @@
 </head>
 <body>
 
-
+hello this is index page
   
 <?php include('./partials/header.php');
 
